@@ -1,0 +1,12 @@
+2024-11-12 10:30:15,INFO,User john logged in from 192.168.1.1
+2024-11-12 10:32:22,ERROR,Failed login attempt for user jane from 192.168.1.1
+2024-11-12 10:34:02,ERROR,Failed login attempt for user jane from 192.168.1.1
+2024-11-12 10:34:45,ERROR,Failed login attempt for user jane from 192.168.1.1
+2024-11-12 10:35:20,ERROR,Failed login attempt for user jane from 192.168.1.1
+2024-11-12 10:36:05,ERROR,Failed login attempt for user jane from 192.168.1.1
+2024-11-12 10:40:00,INFO,User mike logged in from 192.168.1.2
+2024-11-12 10:42:15,ERROR,Failed login attempt for user admin from 192.168.1.3
+2024-11-12 10:43:25,INFO,User admin logged in from 192.168.1.3
+2024-11-12 10:45:12,ERROR,Failed login attempt for user admin from 192.168.1.4
+2024-11-12 10:45:34,INFO,User john logged in from 192.168.1.1
+2024-11-12 10:47:15,ERROR,Failed login attempt for user admin from 192.168.1.5
