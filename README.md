@@ -13,8 +13,8 @@ Sentry is an Intrusion Detection System that monitors server logs for failed log
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/vixhnuchandran/sentry.git
-    cd sentry
+    git clone https://github.com/vixhnuchandran/Sentry.git
+    cd Sentry
     ```
 
 2. (Optional) Install the project locally:
@@ -25,7 +25,7 @@ Sentry is an Intrusion Detection System that monitors server logs for failed log
 
 ## Configuration
 
-Modify `sentry/config.py`:
+Modify `Sentry/config.py`:
 
 - **LOG_FILE_PATH**: Log file path (default: `server_log.txt`).
 - **ALERT_THRESHOLD**: Alert threshold for failed logins (default: `5`).
